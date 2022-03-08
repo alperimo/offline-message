@@ -1,0 +1,1 @@
+WHISPER_OFFLINE	%s adlý oyuncu kapalý.Bü yüzden yolladýðýnýz mesaj kiþi oyuna girdiði zaman otomatik olarak sen oyunda olmasan bile kendisine iletilecek.
